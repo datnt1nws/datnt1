@@ -1,0 +1,43 @@
+{
+  "name": "vue-router",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Vue.js project",
+  "author": "datnt1nws <nguyentatdat2000@gmail.com>",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "main": ".postcssrc.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.1",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "package": "^1.0.1",
+    "vue": "^2.6.14",
+    "vue-axios": "^3.2.4",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "^3.2.0",
+    "your": "^0.2.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "nodemon": "^2.0.12",
+    "typescript": "~4.1.5",
+    "vue-template-compiler": "^2.6.11",
+    "webpack-env": "^0.8.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "keywords": [],
+  "license": "ISC"
+}
